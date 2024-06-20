@@ -174,7 +174,7 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 <!-- CONTACT -->
 ## Contact
-Email ID - lakshay21059@iiitd.ac.in
+Email ID - ekansh21044@iiitd.ac.in
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 Lakshay Bansal lakshay21059@iiitd.ac.in
